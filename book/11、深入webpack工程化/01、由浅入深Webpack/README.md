@@ -24,6 +24,9 @@
 
 
 ### <p id='class1-item02'>02、打包js</p>          
+
+webpack支持es6, CommonJS, AMD。
+
 #### 2.1、命令行打包js
 在目录 `book/11、深入webpack工程化/01、由浅入深Webpack/02、打包js` 下面建立两个文件 一个是 `app.js` 另外一个是 `sum.js`                  
 并且书写相关代码，然后使用命令行打包来试一试效果看看如何, 这种命令行必须要在当前文件目录下面进行, 命令行: `webpack app.js bundle.js`                   
@@ -51,7 +54,7 @@ module.exports = {
 [代码示例](./02、打包js/)
 
 
-### <p id='class1-item03'>03、编译ES6/7</p>          
+### <p id='class1-item03'>03、编译ES6/7</p>                    
 首先我们要安装babel 编译文件 `npm install --save-dev babel-loader babel-core`          
 同时还需要安装 `npm install babel-preset-env --save-dev`           
 这个时候，给webpack.config.js一个基础配置：          

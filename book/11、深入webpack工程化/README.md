@@ -42,29 +42,30 @@
     - [04、webpack多页面应用](./04、webpack实战场景/README.md#class4-item04)
 
 
-- webpack优化问题
+- 五、webpack优化问题
     - [图片处理](./05、webpack优化问题/01、图片处理.md)
-    - [webpack 中那些最易混淆的 5 个知识点](https://juejin.im/post/5cede821f265da1bbd4b5630)
     - [pre-commit限制提交检测](./05、webpack优化问题/02、pre-commit限制提交检测.md)
     - [prettier和lint检测](./05、webpack优化问题/03、prettier和lint检测.md)
+    
+- 六、其他补充知识点
+    - [Tree-Shaking攻略](./06、其他/01、Tree-Shaking攻略/01、Tree-Shaking攻略.md)
+    - [webpack 中那些最易混淆的 5 个知识点](./06、其他/02、五个易混淆的概念/02、五个易混淆的概念.md)
+    - [重学webpack4重要知识点](./06、其他/03、重学webpack4重要知识点/03、重学webpack4重要知识点.md)
+    - [webpack4系列中文教程和配套代码](https://github.com/dongyuanxin/webpack-demos)
+    - [学习webpack4.0的最新配置语法和新特性](https://github.com/wlx200510/webpack4.x-learn)
+    - [Webpack-dev-server的proxy用法](https://www.jianshu.com/p/f489e7764cb8)
+    - [babel-polyfill的几种使用方法](https://blog.csdn.net/weixin_41224029/article/details/90213067)
+    - [Webpack 再深入再总结](https://juejin.im/post/5e17c1dd6fb9a02fd67e9990?utm_source=gold_browser_extension)
 
 
 - 实战案例
-    - [从零搭建React全家桶框架教程](https://github.com/brickspert/blog/issues/1)
+    - [从零搭建React全家桶框架教程 - 已经很过时了](https://github.com/brickspert/blog/issues/1)
     - [配置一套属于自己的React项目的webpack配置](https://github.com/heyushuo/Webpack-React)
     - [从零开始配置TypeScript + React + React-Router + Redux + Webpack开发环境](https://www.cnblogs.com/baqiphp/p/7647912.html)
     - [Demos && Courses for Webpack 4](https://github.com/dongyuanxin/webpack-demos)
     - [tsx+webpack4](https://github.com/cli-template-build/tsx-app)
     - [一步步从零开始用 webpack 搭建一个大型项目 - *** ](https://juejin.im/post/5de06aa851882572d672c1ad)
     - [webpack 最佳配置指北](https://juejin.im/post/5e0e1153e51d45414b74de65?utm_source=gold_browser_extension)
-
-- 其他补充知识点
-    - [webpack4系列中文教程和配套代码](https://github.com/dongyuanxin/webpack-demos)
-    - [学习webpack4.0的最新配置语法和新特性](https://github.com/wlx200510/webpack4.x-learn)
-    - [Webpack-dev-server的proxy用法](https://www.jianshu.com/p/f489e7764cb8)
-    - [babel-polyfill的几种使用方法](https://blog.csdn.net/weixin_41224029/article/details/90213067)
-    - [Webpack 4 Tree Shaking 终极优化指南](https://juejin.im/post/5dcec27d5188254b0147e619#heading-0)
-    - [Webpack 再深入再总结](https://juejin.im/post/5e17c1dd6fb9a02fd67e9990?utm_source=gold_browser_extension)
 
     
 - webpack插件和loader开发
